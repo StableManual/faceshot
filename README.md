@@ -65,6 +65,23 @@ Denoising strength: 0.2
 ![무제27_20230215021416](https://user-images.githubusercontent.com/123804566/218813307-59f4bbbb-801f-46b4-998b-899a59bee3c0.png)
 
 상당히 만족스럽게 나온다.
+참고로 난 9번 정도 돌렸다.
+
+<br/>
+ 큰 사진 주의! 
 
 ---
 [사진 확대 버전]
+![Screenshot_20230215-020228_Chrome](https://user-images.githubusercontent.com/123804566/218814564-1600309a-4702-4605-ac6c-48bac1efdc63.jpg)
+![Screenshot_20230215-020249_Chrome](https://user-images.githubusercontent.com/123804566/218814569-75985f2e-8c35-4ca4-9712-88be31d5e47b.jpg)
+![Screenshot_20230215-020306_Chrome](https://user-images.githubusercontent.com/123804566/218814575-492607b2-ced1-4622-b557-7c26e67c47aa.jpg)
+![Screenshot_20230215-020321_Chrome](https://user-images.githubusercontent.com/123804566/218814582-46be176a-73ee-4404-b997-0ae631cf5a3a.jpg)
+---
+
+<br/>
+<br/>
+<br/>
+<br/>
+
++) 구글 정책이 바뀌면서 코랩도 사용이 불편해졌습니다. 양해 부탁드리고
+전 로컬로 갈아탑니당.
