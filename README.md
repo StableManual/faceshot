@@ -15,6 +15,7 @@
 
 긍정 프롬프트: (((bukkake))), facial, cum, sticky white cum, large cum amounts, facial
 <br/>
+
 부정 프롬프트: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, anime, drawing, illustration
 
 
@@ -47,4 +48,23 @@ Denoising strength: 0.2
 
 ## 시작
 
-아무 이미지나 불러온 후 얼굴에 마스킹한다
+
+![무제24_20230215021155](https://user-images.githubusercontent.com/123804566/218813291-b0b8ec71-8383-4d3e-89b6-df6fdae02436.png)
+사람의 이미지를 불러온다 (유명인은 문제가 될 수 있으니, AI 사진으로 대체)
+
+<br/>
+
+![무제25_20230215021223](https://user-images.githubusercontent.com/123804566/218813299-6f6b0099-f89c-40af-9ae1-5bd2f902f3b0.png)
+그 후 얼굴에 원하는 부위를 마스킹한다
+
+몇 번 돌리면...
+
+<br/>
+
+![무제26_20230215021308](https://user-images.githubusercontent.com/123804566/218813301-673fb502-727c-4d14-a607-5e1e93b2b53d.png)
+![무제27_20230215021416](https://user-images.githubusercontent.com/123804566/218813307-59f4bbbb-801f-46b4-998b-899a59bee3c0.png)
+
+상당히 만족스럽게 나온다.
+
+---
+[사진 확대 버전]
