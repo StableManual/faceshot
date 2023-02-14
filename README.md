@@ -7,7 +7,7 @@
 
 모델: https://rentry.org/sdmodels#bukkake-b4a14787
 
-다운 후 구글드라이브 SD>models>Stable-diffusion에 넣기
+메가나 토렌트 다운 후 구글드라이브 SD>models>Stable-diffusion에 넣기
 
 그 후 WebUI에서 선택
 
